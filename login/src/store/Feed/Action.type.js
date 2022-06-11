@@ -1,0 +1,3 @@
+export const LOADING_FEEDS="LOADING_FEEDS"
+export const ERROR_FEEDS="ERROR_FEEDS"
+export const SUCCESS_FEEDS="SUCCESS_FEEDS"
